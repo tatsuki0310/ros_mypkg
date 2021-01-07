@@ -1,0 +1,4 @@
+<launch>
+  <node pkg="ros_mypkg" name="input" type="send.py" />
+  <node pkg="ros_mypkg" name="output" type="return.py" output="screen" />
+</launch>
