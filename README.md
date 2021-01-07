@@ -18,12 +18,16 @@
 
 - `git`を使用してこのパッケージをダウンロードします。
 
-  cd ~/catkin_ws/src
-  git clone https://github.com/tatsuki0310/ros_mypkg.git
+```bash
+cd ~/catkin_ws/src
+git clone https://github.com/tatsuki0310/ros_mypkg.git
+```
 
 - `catkin_make`を使用してパッケージをビルドします。
 
-  cd ~/catkin_ws && catkin_make
+```bash
+cd ~/catkin_ws && catkin_make
+```
 
 ## パッケージについて
 
