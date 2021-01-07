@@ -12,11 +12,9 @@
   
 ## インストール方法
 
-- [ros_setup_scripts_Ubuntu20.04_server]
-(http://github.com/ryuichiueda/ros_setup_scripts_Ubuntu20.04\server)を参照しROSのインストールを行います。
+- [ros_setup_scripts_Ubuntu20.04_server](http://github.com/ryuichiueda/ros_setup_scripts_Ubuntu20.04\server)を参照しROSのインストールを行います。
 
-- [ロボットシステム学第10回]
-(https://ryuichiueda.github.io/robosys2020/lesson10_ros.html#/)を参照しワークスペースの準備をします。
+- [ロボットシステム学第10回](https://ryuichiueda.github.io/robosys2020/lesson10_ros.html#/)を参照しワークスペースの準備をします。
 
 - `git`を使用してこのパッケージをダウンロードします。
 
