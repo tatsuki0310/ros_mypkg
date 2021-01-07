@@ -18,16 +18,12 @@
 
 - `git`を使用してこのパッケージをダウンロードします。
 
-　```bash
   cd ~/catkin_ws/src
   git clone https://github.com/tatsuki0310/ros_mypkg.git
-  ```
 
 - `catkin_make`を使用してパッケージをビルドします。
 
-  ```bash
   cd ~/catkin_ws && catkin_make
-  ```
 
 ## パッケージについて
 
@@ -38,7 +34,7 @@ send.pyで1～100000の数値をランダムで生成し、return.pyで偶数か
 - [send.py](https://github.com/tatsuki0310/ros_mypkg/blob/main/scripts/send.py)で数値をランダムに生成して
 [return.py](https://github.com/tatsuki0310/ros_mypkg/blob/main/scripts/return.py)で受け取り偶数と奇数の判断を行う。
 
--　cloneした後、次のコマンドを実行します。
+- cloneした後、次のコマンドを実行します。
 
 ```bash
 roslaunch ros_mypkg discrimination.launch
